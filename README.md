@@ -1,6 +1,6 @@
-# git clone https://github.com/podabed/default.git .themes/default && rake install['default'] && rake generate && rake preview
-<html>
 
+<html>
+# git clone https://github.com/podabed/default.git .themes/default && rake install['default'] && rake generate && rake preview
 
 <img src="top170703.jpg" width="800" height="250" alt="" title=""><br />
 プラズマガール連載中<br>
