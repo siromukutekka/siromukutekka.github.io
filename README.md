@@ -1,9 +1,7 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=Shift_JIS">
-<meta http-equiv="Content-Style-Type" content="text/css">
-<meta http-equiv="Content-Script-Type" content="text/javascript">
+
 <title>白無垢鉄火</title>
 <link rel="shortcut icon" href="http://tekka.siromuku.com/menu/favicon.ico">
 <link rel= "stylesheet" type="text/css" href="indecs.css">
@@ -37,12 +35,7 @@
 
 <p><a href="e/log_2/m_index03.html">■</a></p>
 
-<!--shinobi1-->
-<script type="text/javascript" src="http://x5.toumoku.com/ufo/074402200"></script>
-<noscript><a href="http://x5.toumoku.com/bin/gg?074402200" target="_blank">
-<img src="http://x5.toumoku.com/bin/ll?074402200" width="88" height="31"></a><br>
-<span style="font-size:9px"><img style="margin:0;vertical-align:text-bottom;" src="http://img.shinobi.jp/tadaima/fj.gif" width="19" height="11"> <a href="http://fortune.rentalurl.net" target="_blank">占い</a></span></noscript>
-<!--shinobi2-->
+
 </div>
 
 </body>
