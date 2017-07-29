@@ -1,3 +1,4 @@
+# git clone https://github.com/podabed/default.git .themes/default && rake install['default'] && rake generate && rake preview
 <html>
 
 
